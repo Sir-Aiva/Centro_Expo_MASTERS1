@@ -1,0 +1,6 @@
+// Limpar Coleções
+db.MedErros.remove({})
+db.MedHumidade.remove({})
+db.MedTemperatura.remove({})
+db.MedLuminosidade.remove({})
+db.MedMovimento.remove({})
